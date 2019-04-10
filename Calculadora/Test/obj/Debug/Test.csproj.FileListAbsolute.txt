@@ -8,3 +8,13 @@ D:\VisualStudio\Calculadora\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Calculadora\Test\obj\Debug\Test.csproj.CopyComplete
 D:\VisualStudio\Calculadora\Test\obj\Debug\Test.exe
 D:\VisualStudio\Calculadora\Test\obj\Debug\Test.pdb
+D:\linares\tp_laboratorio_2\Calculadora\Test\bin\Debug\Test.exe.config
+D:\linares\tp_laboratorio_2\Calculadora\Test\bin\Debug\Test.exe
+D:\linares\tp_laboratorio_2\Calculadora\Test\bin\Debug\Test.pdb
+D:\linares\tp_laboratorio_2\Calculadora\Test\bin\Debug\Entidades.dll
+D:\linares\tp_laboratorio_2\Calculadora\Test\bin\Debug\Entidades.pdb
+D:\linares\tp_laboratorio_2\Calculadora\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\linares\tp_laboratorio_2\Calculadora\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\linares\tp_laboratorio_2\Calculadora\Test\obj\Debug\Test.csproj.CopyComplete
+D:\linares\tp_laboratorio_2\Calculadora\Test\obj\Debug\Test.exe
+D:\linares\tp_laboratorio_2\Calculadora\Test\obj\Debug\Test.pdb

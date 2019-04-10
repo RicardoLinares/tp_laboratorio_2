@@ -25,25 +25,33 @@ namespace Entidades
             Double.TryParse(strNumero, out resultado);
             return resultado;
         }
-        public string BinarioDecimal(string binario)
+        public static string BinarioDecimal(string binario)
         {
-            string resultado;
-            try
+            string resultado = "Valor Invalido";
+            string parteDecimal = "";
+            string parteFraction = "";
+            bool valorValido = true;
+            foreach (char c in binario)
             {
-                resultado = Convert.ToInt32(binario, 2).ToString();
+                int numero;
+                if(c == '1' && c == '0')
+                {
+                    parteDecimal += c;
+                }
+                else if(Byte.TryParse(c.ToString(), numero))
+                {
+                    valorValido = false;
+                    break;
+                }
             }
-            catch
+            if(valorValido)
             {
-                resultado = "Valor Invalido";
-            }
-            finally
-            {
-
+                resultado = Convert.ToInt32(parteDecimal, 2).ToString();
             }
             return resultado;
         }
 
-        public string DecimalBinario(double numero)
+        public static string DecimalBinario(double numero)
         {
             string binario;
             try
@@ -53,7 +61,7 @@ namespace Entidades
                 double parteDecimal = numero - conversion;
                 if(parteDecimal > 0)
                 {
-                    binario += ",";
+                    binario += ".";
                 }
                 for (int i = 0; i < 20 && parteDecimal != 0d; i++)
                 {
@@ -81,7 +89,7 @@ namespace Entidades
             return binario;
         }
 
-        public string DecimalBinario(string strNumero)
+        public static string DecimalBinario(string strNumero)
         {
             string binario = "Valor Invalido";
             double numero;
@@ -122,7 +130,7 @@ namespace Entidades
             Double resultado;
             if(NumeroB.numero != 0)
             {
-                resultado = numeroA.numero + NumeroB.numero;
+                resultado = numeroA.numero / NumeroB.numero;
             }
             else
             {
@@ -130,6 +138,9 @@ namespace Entidades
             }
             return resultado;
         }
-
+        public override string ToString()
+        {
+            return numero.ToString();
+        }
     }
 }

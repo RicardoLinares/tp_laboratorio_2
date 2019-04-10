@@ -10,10 +10,10 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Numero numero = new Numero("2,2");
-            Numero numero2 = new Numero("0");
+            Numero numero = new Numero("2");
+            Numero numero2 = new Numero("2");
             
-            Console.WriteLine("{0}", Calculadora.Operar(numero,numero2,"*"));
+            Console.WriteLine("{0}", Calculadora.Operar(numero,numero2,"/"));
             Console.ReadLine();
 
         }
