@@ -21,3 +21,15 @@ D:\linares\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\Entidades.dll
 D:\linares\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
 D:\linares\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
 D:\linares\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

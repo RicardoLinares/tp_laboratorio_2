@@ -10,3 +10,9 @@ D:\linares\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.csproj.Cor
 D:\linares\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.dll
 D:\linares\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.pdb
 D:\linares\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\Calculadora\Entidades\obj\Debug\Entidades.pdb
