@@ -10,7 +10,9 @@ namespace Entidades
     {
         private double numero;
 
-
+        /// <summary>
+        /// la propiedad es de solo escritura, asigna el valor de instancia numero.
+        /// </summary>
         private string SetNumero
         {
             set
@@ -19,12 +21,22 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Valida la cadena y devuelve el valor equivalente en Double
+        /// </summary>
+        /// <param name="strNumero">la cadena a validar(se espera que sea un numero)</param>
+        /// <returns>N si la cadena es valida o 0 cuando no lo es</returns>
         private double ValidarNumero(string strNumero)
         {
             double resultado;
             Double.TryParse(strNumero, out resultado);
             return resultado;
         }
+        /// <summary>
+        /// Convierte la cadena numerica binaria(base 2) a un cadena numerica decimal(base 10)
+        /// </summary>
+        /// <param name="strNumero">el cadena base 2 a convetir</param>
+        /// <returns>Cadena con un numero base 10 equivalente si la cadena es valida o "Valor Invalido" ERROR ""</returns>
         public static string BinarioDecimal(string strNumero)
         {
             string resultado = "Valor Invalido";
@@ -32,7 +44,6 @@ namespace Entidades
             {
 
                 double acumResultado = 0;
-                string parteEnteraBinaria = "";
                 bool esDecimal = false;
                 string parteEntera = "";
                 string parteDecimal = "";
@@ -78,12 +89,20 @@ namespace Entidades
             }
             return resultado;
         }
-
+        /// <summary>
+        /// Convierte un numero Base 10 a un numero Base 2
+        /// </summary>
+        /// <param name="numero">el numero a convertir</param>
+        /// <returns>"Cadena numerica base 2" si el numero es valido, "Valor Invalido" Error</returns>
         public static string DecimalBinario(double numero)
         {
             return DecimalBinario(numero);
         }
-
+        /// <summary>
+        /// Convierte una cadena numerica Base 10 a un numero Base 2
+        /// </summary>
+        /// <param name="strNumero">la cadena a convertir</param>
+        /// <returns>"Cadena numerica base 2" si el numero es valido, "Valor Invalido" Error</returns>
         public static string DecimalBinario(string strNumero)
         {
             string binario = "Valor Invalido";
@@ -144,38 +163,71 @@ namespace Entidades
             }
             return binario;
         }
+        /// <summary>
+        /// Contructor por defecto. el valor por defecto de la variable de instancia "numero" es 0
+        /// </summary>
         public Numero() : this(0d.ToString())
         {
 
         }
-
+        /// <summary>
+        /// Sobrecarga Contructor de Numero. 
+        /// </summary>
+        /// <param name="strNumero">al pasar una cadena numerica se la "parsea" a double y se la asignara a "numero" </param>
         public Numero(string strNumero)
         {
             this.SetNumero = strNumero;
         }
+        /// <summary>
+        /// Sobrecarga Contructor de Numero. 
+        /// </summary>
+        /// <param name="numero">el parametro Double numero se asignara a "numero"</param>
         public Numero(double numero) : this(numero.ToString())
         {
 
         }
-
-        public static double operator  +(Numero numeroA, Numero NumeroB)
+        /// <summary>
+        /// Sobrecarga del operador "+" cuando se trabaja con Numero
+        /// </summary>
+        /// <param name="NumeroA">instancia de la Clase Numero</param>
+        /// <param name="NumeroB">instancia de la Clase Numero</param>
+        /// <returns>N, la suma de los valores "numero" de las clases</returns>
+        public static double operator  +(Numero NumeroA, Numero NumeroB)
         {
-            return numeroA.numero + NumeroB.numero;
+            return NumeroA.numero + NumeroB.numero;
         }
+        /// <summary>
+        /// Sobrecarga del operador "-" cuando se trabaja con Numero
+        /// </summary>
+        /// <param name="NumeroA">instancia de la Clase Numero</param>
+        /// <param name="NumeroB">instancia de la Clase Numero</param>
+        /// <returns>N, la resta de los valores "numero" de las clases</returns>
         public static double operator -(Numero numeroA, Numero NumeroB)
         {
             return numeroA.numero - NumeroB.numero;
         }
+        /// <summary>
+        /// Sobrecarga del operador "*" cuando se trabaja con Numero
+        /// </summary>
+        /// <param name="NumeroA">instancia de la Clase Numero</param>
+        /// <param name="NumeroB">instancia de la Clase Numero</param>
+        /// <returns>N, el producto de los valores "numero" de las clases</returns>
         public static double operator *(Numero numeroA, Numero NumeroB)
         {
             return numeroA.numero * NumeroB.numero;
         }
-        public static double operator /(Numero numeroA, Numero NumeroB)
+        /// <summary>
+        /// Sobrecarga del operador "-" cuando se trabaja con Numero
+        /// </summary>
+        /// <param name="NumeroA">instancia de la Clase Numero, este sera el dividendo</param>
+        /// <param name="NumeroB">instancia de la Clase Numero, este sera el Divisor.</param>
+        /// <returns>N, el cociente de la division entre los "numero" de las clases. Double.MinValue si el divisor es 0.</returns>
+        public static double operator /(Numero dividendo, Numero Divisor)
         {
             Double resultado;
-            if(NumeroB.numero != 0)
+            if(Divisor.numero != 0)
             {
-                resultado = numeroA.numero / NumeroB.numero;
+                resultado = dividendo.numero / Divisor.numero;
             }
             else
             {
@@ -183,9 +235,9 @@ namespace Entidades
             }
             return resultado;
         }
-        public override string ToString()
-        {
-            return numero.ToString();
-        }
+        //public override string ToString()
+        //{
+        //    return numero.ToString();
+        //}
     }
 }

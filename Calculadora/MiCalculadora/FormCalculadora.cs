@@ -41,7 +41,11 @@ namespace MiCalculadora
 
             this.lblResultado.Text = resultado.ToString();
         }
-
+        /// <summary>
+        /// Cerrara el formulario
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -52,6 +56,9 @@ namespace MiCalculadora
             this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
         }
 
+        /// <summary>
+        /// Limpia todos los campos de texto de el formulario
+        /// </summary>
         private void Limpiar()
         {
             this.lblResultado.Text = "0";
@@ -65,6 +72,13 @@ namespace MiCalculadora
             Limpiar();
         }
 
+        /// <summary>
+        /// Realiza la operacion con los numeros y el operador en el formulario
+        /// </summary>
+        /// <param name="numero1">texto de txtNumero1</param>
+        /// <param name="numero2">texto de txtNumero2</param>
+        /// <param name="operador">texto de cmbOperador</param>
+        /// <returns></returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
             Numero objNumero1 = new Numero(numero1);
