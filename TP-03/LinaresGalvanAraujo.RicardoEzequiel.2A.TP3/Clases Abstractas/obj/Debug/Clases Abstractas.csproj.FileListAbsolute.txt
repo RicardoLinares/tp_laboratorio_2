@@ -1,0 +1,16 @@
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Exceptions.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Exceptions.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Exceptions.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\bin\Debug\Exceptions.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

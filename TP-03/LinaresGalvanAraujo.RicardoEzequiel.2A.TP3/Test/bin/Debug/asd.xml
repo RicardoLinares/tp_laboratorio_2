@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jornada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumnos>
+    <Alumno>
+      <Apellido>Suarez</Apellido>
+      <Nombre>Joaquin</Nombre>
+      <DNI>91122456</DNI>
+      <Nacionalidad>Extranjero</Nacionalidad>
+    </Alumno>
+  </Alumnos>
+  <Clases>Laboratorio</Clases>
+  <Instructor>
+    <Apellido>Lopez</Apellido>
+    <Nombre>Juan</Nombre>
+    <DNI>12234456</DNI>
+    <Nacionalidad>Argentino</Nacionalidad>
+  </Instructor>
+</Jornada>

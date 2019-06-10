@@ -1,0 +1,21 @@
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Archivos.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Clases_Instanciables.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Exceptions.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Clases_Instanciables.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Exceptions.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

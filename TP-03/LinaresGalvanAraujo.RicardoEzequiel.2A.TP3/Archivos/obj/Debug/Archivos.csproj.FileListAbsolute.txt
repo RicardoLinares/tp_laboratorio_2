@@ -1,0 +1,8 @@
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\bin\Debug\Archivos.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\obj\Debug\Archivos.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\bin\Debug\Exceptions.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Archivos\bin\Debug\Exceptions.pdb

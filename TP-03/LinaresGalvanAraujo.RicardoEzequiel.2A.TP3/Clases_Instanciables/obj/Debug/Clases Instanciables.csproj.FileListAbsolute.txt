@@ -1,0 +1,24 @@
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Archivos.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases Abstractas.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Exceptions.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Archivos.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases Abstractas.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Exceptions.pdb
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.dll
+c:\users\relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases_Instanciables.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Archivos.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Exceptions.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\bin\Debug\Exceptions.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-03\LinaresGalvanAraujo.RicardoEzequiel.2A.TP3\Clases_Instanciables\obj\Debug\Clases_Instanciables.pdb
