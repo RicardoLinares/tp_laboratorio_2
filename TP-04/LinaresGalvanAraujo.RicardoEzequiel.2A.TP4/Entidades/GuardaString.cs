@@ -14,7 +14,7 @@ namespace Entidades
         /// </summary>
         /// <param name="texto"></param>
         /// <param name="archivo"></param>
-        /// <returns></returns>
+        /// <returns>True si pudo guardarse, False si hubo un error</returns>
         static public bool Guardar(this String texto, string archivo)
         {
             bool respuesta = false;

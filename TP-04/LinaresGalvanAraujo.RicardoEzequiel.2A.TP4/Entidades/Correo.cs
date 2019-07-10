@@ -12,6 +12,9 @@ namespace Entidades
         private List<Thread> mockPaquetes;
         private List<Paquete> paquetes;
 
+        /// <summary>
+        /// Propiedad del listado de paquetes.
+        /// </summary>
         public List<Paquete> Paquetes
         {
             get
@@ -23,11 +26,21 @@ namespace Entidades
                 this.paquetes = value;
             }
         }
+        /// <summary>
+        /// Constructor de Correo inicializa las listas
+        /// </summary>
         public Correo()
         {
             this.paquetes = new List<Paquete>();
             this.mockPaquetes = new List<Thread>();
         }
+        /// <summary>
+        /// Sobrecarga del operador +, agrega un paquete a la lista.
+        /// </summary>
+        /// <param name="c"></param>
+        /// <param name="p"></param>
+        /// <returns></returns>
+        /// <exception cref="TrackingIdRepetidoException"></exception>
         public static Correo operator +(Correo c, Paquete p)
         {
             foreach(Paquete paquete in c.paquetes)
@@ -43,6 +56,11 @@ namespace Entidades
             NuevoCiclo.Start();
             return c;
         }
+        /// <summary>
+        /// Metodo mostrar de la interfaz IMostrar. muestra los datos
+        /// </summary>
+        /// <param name="elemento"></param>
+        /// <returns>la cadena con los datos del correo</returns>
         public string MostrarDatos(IMostrar<List<Paquete>> elemento)
         {
             Correo lista = (Correo)elemento;
@@ -53,6 +71,9 @@ namespace Entidades
             }
             return resultado;
         }
+        /// <summary>
+        /// Cierra todos los hilos activos de mockPaquetes.
+        /// </summary>
         public void FinEntregas()
         {
             int cantidad = this.mockPaquetes.Count;

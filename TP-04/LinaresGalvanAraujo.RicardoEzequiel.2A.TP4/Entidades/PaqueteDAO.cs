@@ -12,10 +12,18 @@ namespace Entidades
     {
         private static SqlCommand sqlCommand;
         private static  SqlConnection SqlConnection;
+        /// <summary>
+        /// Contructor de PaqueteDAO, Crea un objeto tipo SqlConnection para el atributo del mismo nombre
+        /// </summary>
         static PaqueteDAO()
         {
             PaqueteDAO.SqlConnection = new SqlConnection(Entidades.Properties.Settings.Default.SqlKey);
         }
+        /// <summary>
+        /// Agrega un Paquete a la base datos de paquetes
+        /// </summary>
+        /// <param name="p"></param>
+        /// <returns>True al agregarse, False si hubo un error</returns>
         public static bool Insertar(Paquete p)
         {
             bool respuesta = false;

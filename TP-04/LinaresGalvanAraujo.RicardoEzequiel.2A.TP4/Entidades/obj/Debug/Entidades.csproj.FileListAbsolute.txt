@@ -5,3 +5,10 @@ C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Enti
 C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
 C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Entidades\obj\Debug\Entidades.pdb

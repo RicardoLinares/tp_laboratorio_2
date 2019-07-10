@@ -11,3 +11,16 @@ C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\Main
 C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
 C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
 C:\Users\Relinoylli\source\repos\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Relinoylli\Desktop\proyectosFacu\tp_laboratorio_2\TP-04\LinaresGalvanAraujo.RicardoEzequiel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
